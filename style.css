@@ -621,7 +621,7 @@ ul.bottom_link li a {
     background-color: #026874 !important;
 }
 
-@media (min-width: 576px) and (max-width: 767.98px){
+@media and (max-width: 767.98px){
     .banner-content h1{
         font-size: 40px;
     }
