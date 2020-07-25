@@ -626,13 +626,22 @@ ul.bottom_link li a {
         padding: 26px 0px;
     } */
     .banner-content h1{
-        font-size: 32px;
+        font-size: 27px;
     }
     .banner-content p{
-        font-size: 13px;
+        font-size: 11px;
+    }
+    .nav-tabs > li > a{
+        font-size: 11px;
     }
     .pull-right{
-        margin-left: 311px;
+        margin-left: 268px;
+    }
+    .tab-image{
+        padding-left: 25px;
+    }
+    .work-time{
+        margin-top: 80px;
     }
     .jobs .col-lg-3{
         padding-top: 50px;
@@ -692,5 +701,13 @@ ul.bottom_link li a {
     }
     ul.follow li{
         margin: 0 4px;
+    }
+    ul.follow li {
+        width: 35px;
+        height: 35px;
+        line-height: 38px;
+    }
+    .follow{
+        padding: 0;
     }
 }
