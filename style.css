@@ -621,15 +621,18 @@ ul.bottom_link li a {
     background-color: #026874 !important;
 }
 
-@media and (max-width: 767.98px){
+@media (max-width: 575.98px){
+    /* .banner{
+        padding: 26px 0px;
+    } */
     .banner-content h1{
-        font-size: 40px;
+        font-size: 32px;
     }
     .banner-content p{
-        font-size: 17px;
+        font-size: 13px;
     }
     .pull-right{
-        margin-left: 45px;
+        margin-left: 311px;
     }
     .jobs .col-lg-3{
         padding-top: 50px;
@@ -638,7 +641,9 @@ ul.bottom_link li a {
         padding-top: 100px;
     }
     .table > tbody > tr > td h1{
-        line-height:normal
+        line-height:normal;
+        font-size: 11px;
+        font-weight: 700;
     }
     .table > tbody > tr > td{
         text-align: center;
@@ -650,6 +655,9 @@ ul.bottom_link li a {
         margin-left: 0;
         top: 0px;
     }
+    .page-heading h2{
+        font-size: 21px;
+    }
     .page-title .with{
         padding: 0px;
     }
@@ -660,7 +668,7 @@ ul.bottom_link li a {
         padding-top: 80px;
     }
     .we{
-        min-height: 480px;
+        min-height: 345px;
     }
     .left-col{
         padding: 80px 0 70px;
@@ -671,9 +679,15 @@ ul.bottom_link li a {
     .jobxpress{
         min-height: 470px;
     }
+    .heading4 p{
+        font-size: 22px;
+    }
+    .col-md-offset-3{
+        right: 0%;
+    }
     .col-text {
         /* text-align: left; */
-        padding-left: 143px;
+        padding-left: 40px;
         float:left;
     }
     ul.follow li{
