@@ -639,7 +639,7 @@ ul.bottom_link li a {
         padding: 20px 6px;
     }
     .nav-tabs > li > a{
-        font-size: 8px;
+        font-size: 10px;
     }
     .pull-right{
         margin-left: 240px;
@@ -678,8 +678,9 @@ ul.bottom_link li a {
         font-size: 21px;
     }
     .page-title .with {
-        left: 81px;
-        top: -102px;
+        left: -135px;
+        top: -50px;
+        padding: 0;
     }
     .testi-slider{
         min-height: 630px;
